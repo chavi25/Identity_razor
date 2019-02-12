@@ -9,7 +9,6 @@ C:\Users\JAVIER\Documents\respaldo chavi\DotNET Core\Identity_Razor\Identity_Raz
 C:\Users\JAVIER\Documents\respaldo chavi\DotNET Core\Identity_Razor\Identity_Razor\obj\Debug\netcoreapp2.1\Identity_Razor.csproj.CoreCompileInputs.cache
 C:\Users\JAVIER\Documents\respaldo chavi\DotNET Core\Identity_Razor\Identity_Razor\obj\Debug\netcoreapp2.1\Identity_Razor.RazorAssemblyInfo.cache
 C:\Users\JAVIER\Documents\respaldo chavi\DotNET Core\Identity_Razor\Identity_Razor\obj\Debug\netcoreapp2.1\Identity_Razor.RazorAssemblyInfo.cs
-C:\Users\JAVIER\Documents\respaldo chavi\DotNET Core\Identity_Razor\Identity_Razor\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
 C:\Users\JAVIER\Documents\respaldo chavi\DotNET Core\Identity_Razor\Identity_Razor\obj\Debug\netcoreapp2.1\Identity_Razor.AssemblyInfoInputs.cache
 C:\Users\JAVIER\Documents\respaldo chavi\DotNET Core\Identity_Razor\Identity_Razor\obj\Debug\netcoreapp2.1\Identity_Razor.AssemblyInfo.cs
 C:\Users\JAVIER\Documents\respaldo chavi\DotNET Core\Identity_Razor\Identity_Razor\obj\Debug\netcoreapp2.1\Identity_Razor.TagHelpers.input.cache
@@ -66,3 +65,5 @@ C:\Users\JAVIER\Documents\respaldo chavi\DotNET Core\Identity_Razor\Identity_Raz
 C:\Users\JAVIER\Documents\respaldo chavi\DotNET Core\Identity_Razor\Identity_Razor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.g.cshtml.cs
 C:\Users\JAVIER\Documents\respaldo chavi\DotNET Core\Identity_Razor\Identity_Razor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
 C:\Users\JAVIER\Documents\respaldo chavi\DotNET Core\Identity_Razor\Identity_Razor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\JAVIER\Documents\respaldo chavi\DotNET Core\Identity_Razor\Identity_Razor\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginJwt.g.cshtml.cs
+C:\Users\JAVIER\Documents\respaldo chavi\DotNET Core\Identity_Razor\Identity_Razor\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
